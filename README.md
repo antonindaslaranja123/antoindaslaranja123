@@ -48,7 +48,7 @@
 <h3 align="center">🎧 O que estou ouvindo no Spotify</h3>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31kaqyikmzu5yykws2uhp3gyyb3q">
+  <a href="https://open.spotify.com/user/31ffip5qq7rxnjps7choemfb6zdq?si=40d819be9a284f9b">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2sxMmxqcnZ2OG84M2kwMXk3dDhzZWYyOG15YTRtNmp5c2s5cmxrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HvO6Gpnx8599S/giphy.gif" alt="só musica massa" />
   </a>
 </p>
