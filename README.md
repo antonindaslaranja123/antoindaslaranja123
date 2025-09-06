@@ -88,5 +88,5 @@
 
 <!-- Linha inferior -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0764b0,100:03345c&height=120&section=footer"/>
 </p>
