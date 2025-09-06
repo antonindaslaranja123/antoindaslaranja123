@@ -57,7 +57,7 @@
 <p align="center"><i>Relaxando com um som bom</i></p>
 
 
-<p align="center"><i>Clique no Jake</i></p>
+<p align="center"><i>Clique no Jak</i></p>
 
 ---
 
